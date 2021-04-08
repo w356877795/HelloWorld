@@ -4,3 +4,4 @@
 #add some text 20210408
 # 基本上搞懂了
 #增加merger的MB需求到主分支
+#git 打开项目之间首先做的就是git pull
